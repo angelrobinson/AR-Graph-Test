@@ -1,0 +1,10 @@
+C:\Users\Angela\source\repos\GraphTesting\bin\Release\GraphTesting.exe.config
+C:\Users\Angela\source\repos\GraphTesting\bin\Release\GraphTesting.exe
+C:\Users\Angela\source\repos\GraphTesting\bin\Release\GraphTesting.pdb
+C:\Users\Angela\source\repos\GraphTesting\bin\Release\ARGraph.dll
+C:\Users\Angela\source\repos\GraphTesting\bin\Release\ARGraph.pdb
+C:\Users\Angela\source\repos\GraphTesting\obj\Release\GraphTesting.csprojAssemblyReference.cache
+C:\Users\Angela\source\repos\GraphTesting\obj\Release\GraphTesting.csproj.CoreCompileInputs.cache
+C:\Users\Angela\source\repos\GraphTesting\obj\Release\GraphTesting.csproj.CopyComplete
+C:\Users\Angela\source\repos\GraphTesting\obj\Release\GraphTesting.exe
+C:\Users\Angela\source\repos\GraphTesting\obj\Release\GraphTesting.pdb
